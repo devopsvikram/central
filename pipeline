@@ -1,4 +1,3 @@
-# central
 pipeline {
     agent any
     environment {
